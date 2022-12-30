@@ -25,5 +25,5 @@ steps:
     repository: jaseem180/sample-app-frontend
     command: 'buildAndPush'
     Dockerfile: './Dockerfile'
-    tags: 1.0.4
+    tags: latest
     containerRegistry: Docker-hub
